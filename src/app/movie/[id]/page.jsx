@@ -20,7 +20,7 @@ const page = async ({ params }) => {
           }`}
           width={500}
           height={300}
-          className="rounded-lg"
+          className="rounded-lg hover:scale-110 duration-300"
           style={{ maxWidth: "100%", height: "100%" }}
         ></Image>
         <div className="p-2">
